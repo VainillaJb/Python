@@ -15,3 +15,5 @@ class DadoBorracho:
                ¿Con qué nombre debería recordarte cuando el dado deje de girar?
                      PONER IMAGEN DE POKER O ALGO ASI    """)
         print(f"\nOye {nombre}, ¿qué tan borracho está el dado hoy?")
+
+        print("Hola")
